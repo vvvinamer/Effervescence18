@@ -1,0 +1,1238 @@
+[{
+		"id": 101,
+		"name": "Gully Cricket",
+		"description": "Effervescence'17 presents to you the most entertaining event \"GULLY CRICKET\". Make your Team of Bluster and Come to play game of spirit. Win Cash and other exciting prizes...",
+		"location": "Tennis Court",
+		"timestamp": 1507885200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/gully_cricket.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/1113514188781807/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Ashutosh Vishwakarma",
+				"phoneNumber": 9457611044
+			},
+			{
+				"name": "Divy Vaishnav",
+				"phoneNumber": 8058351196
+			}
+		]
+	},
+	{
+		"id": 102,
+		"name": "Perplexus",
+		"description": "An online treasure hunt competition for the ecth geeks who would like to keep it simple yet competitive!",
+		"location": "Online",
+		"timestamp": 1507766400,
+		"imageUrl": "",
+		"facebookEventLink": "https://www.facebook.com/events/1992044107749486/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Abhishek D Nandan",
+				"phoneNumber": 8603111470
+			},
+			{
+				"name": "Vikash",
+				"phoneNumber": 8102816247
+			}
+		]
+	},
+	{
+		"id": 103,
+		"name": "Stegolica",
+		"description": "A delight for all the aspiring hackers, Stegolica is an online competition where you are expected to get the HIDDEN secret key but be aware because @wareness is the key .",
+		"location": "Online",
+		"timestamp": 1507759200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/stegolica.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/120071321999931/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Aseem Shrey",
+				"phoneNumber": 9455245705
+			},
+			{
+				"name": "Abhishek Acharya",
+				"phoneNumber": 8302503300
+			}
+		]
+	},
+	{
+		"id": 104,
+		"name": "Futsal",
+		"description": "Test your real life football skills and motor skill-mojo in this five-a-side, small area, short time version of football. Viva la futsal! ",
+		"location": "Rann Bhoomi",
+		"timestamp": 1507903200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/futsal.png",
+		"facebookEventLink": "https://www.facebook.com/events/116311565708297/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Badnena Upendra",
+				"phoneNumber": 9831474771
+			},
+			{
+				"name": "Anirudh Singh Rathore",
+				"phoneNumber": 9587984782
+			},
+			{
+				"name": "Akshat",
+				"phoneNumber": 7018776033
+			}
+		]
+	},
+	{
+		"id": 105,
+		"name": "Blind Date",
+		"description": "Let the cupid strike your heart, have a date to spend some time with and then well, who knows what can happen!",
+		"location": "Cafeteria",
+		"timestamp": 1507986000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/blinddate.png",
+		"facebookEventLink": "https://www.facebook.com/events/853548354812466/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Pallak Srivastava",
+				"phoneNumber": 7379458308
+			},
+			{
+				"name": "Kamal Chaubey",
+				"phoneNumber": 8127172661
+			}
+		]
+	},
+	{
+		"id": 106,
+		"name": "Night on Boards",
+		"description": "This is event is for all the board game nerds, held at night for your convenience. Effervescence never sleeps and better even, never stops playing. Sounds perfect, no?",
+		"location": "SAC",
+		"timestamp": 1507939199,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/nightonboards.png",
+		"facebookEventLink": "https://www.facebook.com/events/509074202779922/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Shubham Varshney",
+				"phoneNumber": 7052065360
+			},
+			{
+				"name": "Ankit Kumar",
+				"phoneNumber": 8171229764
+			},
+			{
+				"name": "Ravi Ranjan",
+				"phoneNumber": 9470211354
+			}
+		]
+	},
+	{
+		"id": 107,
+		"name": "China Town",
+		"description": "Effervescence'17  presents you China Town, an event filled with card games like Poker, Teen Patti and Darts. Come and witness your dream turn into reality.",
+		"location": "SAC",
+		"timestamp": 1507939199,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/chinatown.png",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Aditya Goel",
+				"phoneNumber": 9001791793
+			},
+			{
+				"name": "Varun Singh",
+				"phoneNumber": 9491618521
+			}
+		]
+	},
+	{
+		"id": 108,
+		"name": "Tug-of-War",
+		"description": "Effervescence'17 present to you the \"Tug-of-War\" that tests your strength and character. ",
+		"location": "Cafeteria",
+		"timestamp": 1507906800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tugofwar.png",
+		"facebookEventLink": "https://www.facebook.com/events/132375700730508/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Aswin",
+				"phoneNumber": 8281637530
+			},
+			{
+				"name": "Aswanth",
+				"phoneNumber": 8281358507
+			},
+			{
+				"name": "Druval CR",
+				"phoneNumber": 9496814630
+			}
+		]
+	},
+	{
+		"id": 109,
+		"name": "Just A Minute",
+		"description": "Amazing hand-eye coordination, sharp and fast thinking, and a zest to win are prerequisites for this reboot of A Minute to Win It.",
+		"location": "CC3",
+		"timestamp": 1508068800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/justamin.png",
+		"facebookEventLink": "https://www.facebook.com/events/1659597200946105/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Pradeep Kumar",
+				"phoneNumber": 8938922705
+			},
+			{
+				"name": "Vijay Kumar Giri",
+				"phoneNumber": 9453834673
+			}
+		]
+	},
+	{
+		"id": 110,
+		"name": "AdMania",
+		"description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. ",
+		"location": "CC3",
+		"timestamp": 1507890600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/admania.png",
+		"facebookEventLink": "https://www.facebook.com/events/116506349066680/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Sanika Surse",
+				"phoneNumber": 7380844608
+			},
+			{
+				"name": "Nikhil Kori",
+				"phoneNumber": 8130020527
+			}
+		]
+	},
+	{
+		"id": 111,
+		"name": "Counter Strike Global Offensive",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "CC-3",
+		"timestamp": 1507993200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/csgo.png",
+		"facebookEventLink": "https://www.facebook.com/events/723040291222111/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Raghav Khandelwal",
+				"phoneNumber": 9414038742
+			},
+			{
+				"name": "Atul Sinha",
+				"phoneNumber": 7061440715
+			}
+		]
+	},
+	{
+		"id": 112,
+		"name": "Fifa17",
+		"description": "FIFA is an online football gaming event played with La Liga format where the winning teams will be decided according to a  knockout round. ",
+		"location": "CC-3",
+		"timestamp": 1507982400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/fifa.png",
+		"facebookEventLink": "https://www.facebook.com/events/172746143296872/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Rohit Kumar",
+				"phoneNumber": 8174015678
+			},
+			{
+				"name": "Madamshetty Rakshith",
+				"phoneNumber": 7572029971
+			}
+		]
+	},
+	{
+		"id": 113,
+		"name": "Android Gamer's Asylum",
+		"description": "This event consists of a competition of popular Android Games like Mini Militia, Bomb Squad.",
+		"location": "CC-3",
+		"timestamp": 1507914000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/android.png",
+		"facebookEventLink": "https://www.facebook.com/events/831286057040427/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Harsh Jain",
+				"phoneNumber": 8349454791
+			},
+			{
+				"name": "Pulkit Jaroli",
+				"phoneNumber": 7572089974
+			}
+		]
+	},
+	{
+		"id": 114,
+		"name": "Paanipuri Junction",
+		"description": "Panipuri Junction gives you an opportunity to show your love for the food with the simplest of competitions. Eat as many golgappas as you want in a minute and may be win something out of it.",
+		"location": "Old Canteen",
+		"timestamp": 1508079600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/paanipuri.png",
+		"facebookEventLink": "https://www.facebook.com/events/1856143044678516/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Aanandita Dhawan",
+				"phoneNumber": 8957065531
+			},
+			{
+				"name": "Apoorv Mahajan",
+				"phoneNumber": 8979776337
+			}
+		]
+	},
+	{
+		"id": 115,
+		"name": "TV Series Quiz",
+		"description": "From Game Of Thrones to Suits and From How I Met Your Mother to Friends, this event will make you relive those amazing moments to the core.",
+		"location": "CC-3",
+		"timestamp": 1507978800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tvquiz.png",
+		"facebookEventLink": "https://www.facebook.com/events/128769554434259/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"quiz"
+		],
+		"organizers": [{
+				"name": "Akash Mishra",
+				"phoneNumber": 9696427244
+			},
+			{
+				"name": "Rishi Shukla",
+				"phoneNumber": 7234047435
+			}
+		]
+	},
+	{
+		"id": 116,
+		"name": "Cricket Quiz",
+		"description": "Who was the first person to score 300 runs in a test match? If you've got the answers, we've got the competition and some really tough questions coming your way in this three-round quiz.",
+		"location": "CC-3",
+		"timestamp": 1507892400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/cricket.png",
+		"facebookEventLink": "https://www.facebook.com/events/265004644008088/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"quiz"
+		],
+		"organizers": [{
+				"name": "Piyush Gurnule",
+				"phoneNumber": 7276575280
+			},
+			{
+				"name": "Utsav Nareti",
+				"phoneNumber": 8085402177
+			}
+		]
+	},
+	{
+		"id": 117,
+		"name": "Animania",
+		"description": "Think you're the biggest anime freak out there? Come , participate and meet your kind(of people).",
+		"location": "CC-3",
+		"timestamp": 1507978800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/animequiz.png",
+		"facebookEventLink": "https://www.facebook.com/events/419536885125796/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"quiz"
+		],
+		"organizers": [{
+				"name": "Parth Agarwal",
+				"phoneNumber": 9557646688
+			},
+			{
+				"name": "Harshit Jain",
+				"phoneNumber": 8527116329
+			}
+		]
+	},
+	{
+		"id": 118,
+		"name": "Roadies",
+		"description": "If you've got the brains and the brawn, look no further for the ultimate test of your physical and mental strength. This is no mere reboot of the T.V. series.",
+		"location": "CC-3 and Rann bhoomi",
+		"timestamp": 1507975200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/roadies.png",
+		"facebookEventLink": "https://www.facebook.com/events/738792496313126",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Shreyansh Chaudhary",
+				"phoneNumber": 9559155755
+			},
+			{
+				"name": "Suryansh Tiwari",
+				"phoneNumber": 7839305526
+			},
+			{
+				"name": "Mohammed Harris",
+				"phoneNumber": 7081878650
+			}
+		]
+	},
+	{
+		"id": 119,
+		"name": "Photobooth",
+		"description": "If you are obsessed with getting yourself clicked, then we present the Photo Booth for you where you can have your pictures taken with props and all the dreamworks of a carnival presented just for you! Enter Pose and Click!",
+		"location": "Gymkhana Grounds",
+		"timestamp": 1507939200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/photobooth.png",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Ankit jain",
+				"phoneNumber": 7597604467
+			},
+			{
+				"name": "Nikhil Mundra",
+				"phoneNumber": 9919799191
+			}
+		]
+	},
+	{
+		"id": 120,
+		"name": "Arm Wrestling",
+		"description": "Come show where the hours you put into the gym and the push-ups and chin-ups you do have taken you in the competition where the strongest prevails!!",
+		"location": "SAC/OC",
+		"timestamp": 1507995000,
+		"imageUrl": "",
+		"facebookEventLink": "https://www.facebook.com/events/132469360716340/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Akshay Kumar",
+				"phoneNumber": 8002430834
+			},
+			{
+				"name": "Rishabh Agnihotri",
+				"phoneNumber": 8188940829
+			}
+		]
+	},
+	{
+		"id": 121,
+		"name": "Basketball",
+		"description": "An informal basketball sporting event with custom rules made for you!!",
+		"location": "Basketball court",
+		"timestamp": 1508079600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/basketball.png",
+		"facebookEventLink": "https://www.facebook.com/events/223944314803947/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Nishant Malik",
+				"phoneNumber": 7252920582
+			},
+			{
+				"name": "Sudhanshu Shakya",
+				"phoneNumber": 8439357480
+			}
+		]
+	},
+	{
+		"id": 122,
+		"name": "Treasure Hunt",
+		"description": "\"The treasure awaits you only if you search for it.\"The Treasure Hunt ensures that you enjoy running around the college in search of clues. Wherever the clues will be you will search them, find them and open the way to the final treasure.",
+		"location": "Campus",
+		"timestamp": 1507842000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/treasurehunt.png",
+		"facebookEventLink": "https://www.facebook.com/events/508297726200546/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Swapnesh Narayan",
+				"phoneNumber": 9839775664
+			},
+			{
+				"name": "Yash Gupta",
+				"phoneNumber": 7976794486
+			},
+			{
+				"name": "Prabhat Singh",
+				"phoneNumber": 9956044639
+			},
+			{
+				"name": "Abhishek D Nandan",
+				"phoneNumber": 8603111470
+			}
+		]
+	},
+	{
+		"id": 123,
+		"name": "Dota 2",
+		"description": "Best of three  5 vs 5 games - captians mode",
+		"location": "CC3",
+		"timestamp": 1507905000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/dota.png",
+		"facebookEventLink": "https://www.facebook.com/events/2028223137463926/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Srikar kvs",
+				"phoneNumber": 7237857583
+			},
+			{
+				"name": "Arpit Lohia",
+				"phoneNumber": 9404135374
+			}
+		]
+	},
+	{
+		"id": 124,
+		"name": "La Frenze",
+		"description": "One of the most electrifying and enthralling dance events of Effervescence organized by the Dance society, this is a duet dance event.",
+		"location": "Main Audi",
+		"timestamp": 1507989600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/lafrenze.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/1164246687041115/",
+		"additionalInfo": [],
+		"categories": [
+			"dance"
+		],
+		"organizers": [{
+				"name": "Shubham",
+				"phoneNumber": 7376286670
+			},
+			{
+				"name": "Soumya Verma",
+				"phoneNumber": 9458466390
+			},
+			{
+				"name": "Simran Gill",
+				"phoneNumber": 7317886616
+			}
+		]
+	},
+	{
+		"id": 125,
+		"name": "Carpe Diem",
+		"description": "Because dancing requires great passion and not great skills. It is a solo dance competition.",
+		"location": "Main Audi",
+		"timestamp": 1507982400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/carpediem.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/347888505659925/",
+		"additionalInfo": [],
+		"categories": [
+			"dance"
+		],
+		"organizers": [{
+				"name": "Aashi Pundir",
+				"phoneNumber": 9599416067
+
+			},
+			{
+				"name": "Suraj Singh",
+				"phoneNumber": 7524098807
+			},
+			{
+				"name": "Saumya Verma",
+				"phoneNumber": 9458466390
+			}
+		]
+	},
+	{
+		"id": 126,
+		"name": "Show off",
+		"description": "\"Show Off\" is an online dance competition.",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/showoff.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"dance"
+		],
+		"organizers": []
+	},
+	{
+		"id": 127,
+		"name": "Bindass Bol (Nukkad Natak)",
+		"description": "It is one of the art of drama through which you convey your thoughts or do satire on the social activities which are wrong but still happening in our society.",
+		"location": "Basketball Court",
+		"timestamp": 1507993200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/nukkad.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/125586151437916/",
+		"additionalInfo": [],
+		"categories": [
+			"dramatics"
+		],
+		"organizers": [{
+				"name": "Sudhanshu Shakya",
+				"phoneNumber": 8439357480
+			},
+			{
+				"name": "Hiral Agrawal",
+				"phoneNumber": 9452439387
+			},
+			{
+				"name": "Madhur Gupta",
+				"phoneNumber": 8800846806
+			}
+		]
+	},
+	{
+		"id": 129,
+		"name": "Tongues On Fire",
+		"description": "It is a fun event organized by the Dramatics Society where teams debate over common topics.",
+		"location": "Cafeteria",
+		"timestamp": 1508072400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tof.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/123289485046840/",
+		"additionalInfo": [],
+		"categories": [
+			"dramatics"
+		],
+		"organizers": [{
+				"name": "Sakshi Shrivas",
+				"phoneNumber": 8354890780
+			},
+			{
+				"name": "Mukul Singh",
+				"phoneNumber": 8090200805
+			}
+		]
+	},
+	{
+		"id": 130,
+		"name": "Double Trouble",
+		"description": "Another fun event of the Dramatics Society in which small tasks are given to the participants and points are awarded.",
+		"location": "Cafeteria",
+		"timestamp": 1508079600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/doubletrouble.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/176809319545565/",
+		"additionalInfo": [],
+		"categories": [
+			"dramatics"
+		],
+		"organizers": [{
+				"name": "Princy Pathak",
+				"phoneNumber": 7599396139
+			},
+			{
+				"name": "Dhruv Thadani",
+				"phoneNumber": 7860455433
+			},
+			{
+				"name": "Utkarsh Chaurasia",
+				"phoneNumber": 9897211432
+
+			}
+		]
+	},
+	{
+		"id": 131,
+		"name": "Kahani",
+		"description": "An online event to test your scriptwriting skills.",
+		"location": "",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/kahani.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"dramatics"
+		],
+		"organizers": []
+	},
+	{
+		"id": 132,
+		"name": "Antakshari",
+		"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn't you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
+		"location": "CC3",
+		"timestamp": 1507899600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/antakshari.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/492660841113544/",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Niharika Shrivastava",
+				"phoneNumber": 9869338372
+			},
+			{
+				"name": "Gauri Kesarwani",
+				"phoneNumber": 8303220294
+			},
+			{
+				"name": "Anagh Rao",
+				"phoneNumber": 7396500000
+			}
+		]
+	},
+	{
+		"id": 133,
+		"name": "Unplugged",
+		"description": "Introducing Unplugged,the official acoustic event organised during Effervescence. We invite you to this musical event where you can perform acoustic renditions of your favourite songs and win attractive prizes.",
+		"location": "Main Audi",
+		"timestamp": 1508076000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/unplugged.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/386737538411192/",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Arpit Bahety",
+				"phoneNumber": 99924484847
+			},
+			{
+				"name": "Rahul Gyawali",
+				"phoneNumber": 7755834908
+			},
+			{
+				"name": "Harshit Srivastava",
+				"phoneNumber": 7081934678
+			}
+		]
+	},
+	{
+		"id": 134,
+		"name": "Psychedelia",
+		"description": "Psychedellia is the mainstage non-competitive event for Musical Bands, with no judges. Being a mainstage event of Effervescence, it presents you with an opportunity that will always be a win win situation.",
+		"location": "Main Stage",
+		"timestamp": 1508000400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/psychedellia.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Vivek Tiwari",
+				"phoneNumber": 9540488830
+			},
+			{
+				"name": "Siddharth Vats",
+				"phoneNumber": 9997987345
+			},
+			{
+				"name": "Kajol",
+				"phoneNumber": 9455293908
+			}
+		]
+	},
+	{
+		"id": 135,
+		"name": "Melodeiux",
+		"description": "Melodieux is a competitive music event organised for just singers. May the one with the best voice win!",
+		"location": "Main Audi",
+		"timestamp": 1508068800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/melodeiux.jpg",
+		"facebookEventLink": "https://www.facebook.com/profile.php?id=300500913761591&ref=br_rs",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Niharika Shrivastava",
+				"phoneNumber": 9869338372
+			},
+			{
+				"name": "Sominee Gupta",
+				"phoneNumber": 7376410225
+			},
+			{
+				"name": "Aashutosh Khandelwal",
+				"phoneNumber": 9088368138
+			}
+		]
+	},
+	{
+		"id": 136,
+		"name": "Feathers",
+		"description": "\"Feathers\", is the annual creative writing event conducted during Effervescence.",
+		"location": "CC3",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/feathers.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"literature"
+		],
+		"organizers": []
+	},
+	{
+		"id": 137,
+		"name": "Cognoscentia",
+		"description": "Congnoscentia is organised each year to put your grey cells into work. This mind numbing quizzing competition covers every genre, Literally, everything under the sun!",
+		"location": "CC3",
+		"timestamp": 1508065200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/cognoscentia.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/141002776519860/?ref=br_rs",
+		"additionalInfo": [],
+		"categories": [
+			"literature",
+			"quiz"
+		],
+		"organizers": [{
+				"name": "Ravi Charan",
+				"phoneNumber": 8187048426
+			},
+			{
+				"name": "Akash Mishra",
+				"phoneNumber": 9696427244
+			}
+		]
+	},
+	{
+		"id": 138,
+		"name": "Dumb Charades",
+		"description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it's all about dumb charades.",
+		"location": "CC3",
+		"timestamp": 1507982400,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"literature"
+		],
+		"organizers": [{
+				"name": "Prafull Mishra",
+				"phoneNumber": 9838224416
+			},
+			{
+				"name": "Kartik Madaan",
+				"phoneNumber": 9650289599
+			}
+		]
+	},
+	{
+		"id": 139,
+		"name": "Crossroads",
+		"description": "\"Crossroads\" brings with it, a platform to enhance your talking and debating skills.",
+		"location": "Cafeteria",
+		"timestamp": 1507905000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/oneonone.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"literature"
+		],
+		"organizers": [{
+				"name": "Bhanu Bhandari",
+				"phoneNumber": 9958159280
+			},
+			{
+				"name": "Mantek Singh",
+				"phoneNumber": 8008465118
+			},
+			{
+				"name": "Niharika Gali",
+				"phoneNumber": 9494479776
+			},
+			{
+				"name": "Akash Mishra",
+				"phoneNumber": 9696427244
+			}
+		]
+	},
+	{
+		"id": 140,
+		"name": "Meme Slam",
+		"description": "Meme Slam, is the launchpad for people with a good sensse of humour who can put their cool ideas on posts(not paper!)..",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/meme.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"literature"
+		],
+		"organizers": []
+	},
+	{
+		"id": 141,
+		"name": "Sketcher",
+		"description": "Sketcher is an online sketching competition for all the art lovers out there. You just have to take a pencil or a pen or pencil colours and shape your imagination on the paper.",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/sketcher.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Avinash Yadav",
+				"phoneNumber": 7524990644
+			},
+			{
+				"name": "Manavdeep Singh",
+				"phoneNumber": 7706904885
+			},
+			{
+				"name": "Nitin Vijay",
+				"phoneNumber": 9793016386
+			}
+
+		]
+
+	},
+	{
+		"id": 142,
+		"name": "Face Painting",
+		"description": "Face painting is an event where one participant showcase his talent by painting the face of his teammate based on the theme given on the spot.",
+		"location": "Pavilion",
+		"timestamp": 1508076000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/facepainting.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Pratyay Kumar",
+				"phoneNumber": 8987599864
+			},
+			{
+				"name": "Aditi Bansal",
+				"phoneNumber": 8604833407
+			},
+			{
+				"name": "Avinash Yadav",
+				"phoneNumber": 7524990644
+			}
+		]
+	},
+	{
+		"id": 143,
+		"name": "Graffiti",
+		"description": "Do you feel that that drawing sheet is too small to showcase your imagination? Graffiti is the best place for you in such a case!",
+		"location": "SAC and Pavilion",
+		"timestamp": 1507903200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/graffiti.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Vinit Mankar",
+				"phoneNumber": 7706020707
+			},
+			{
+				"name": "Lekhika Dugtal",
+				"phoneNumber": 8588962787
+			},
+			{
+				"name": "Prakash Kumar",
+				"phoneNumber": 7361938303
+			}
+
+		]
+	},
+	{
+		"id": 144,
+		"name": "Toon Coon",
+		"description": "Toon Coon is where you can make a cartoon based on the themes which will be provided to you on the spot.",
+		"location": "Pavilion",
+		"timestamp": 1508072400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tooncon.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Sanam Bahadur",
+				"phoneNumber": 7376286670
+			},
+			{
+				"name": "Akanksha Goyal",
+				"phoneNumber": 9458466390
+			},
+			{
+				"name": "Manavdeep Singh",
+				"phoneNumber": 7706904885
+			}
+		]
+	},
+	{
+		"id": 145,
+		"name": "Tasveer",
+		"description": "Explore the hidden photographer in you with the event TASVEER. Just take your camera and click, not when it seems like, but when it feels like.",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tasveer.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"AMS"
+		],
+		"organizers": [{
+				"name": "Ashwin Tagde",
+				"phoneNumber": 7408235250
+			},
+			{
+				"name": "Nitish Verma",
+				"phoneNumber": 8765923005
+			},
+			{
+				"name": "Richa Vinian",
+				"phoneNumber": 8400114665
+			}
+		]
+	},
+	{
+		"id": 146,
+		"name": "Mannequin Challenge",
+		"description": "A great gang, a pinch of creativity, a recorder and that's all the ingredients required to fetch you cool prizes. So just play with your camera, juggle your mind and come with the most boggling mannequin.",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/mannequin.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"AMS"
+		],
+		"organizers": [{
+				"name": "Ajitesh  Gupta",
+				"phoneNumber": 9005374250
+			},
+			{
+				"name": "Siddhanth Srivastav",
+				"phoneNumber": 8765531793
+			}
+		]
+	},
+	{
+		"id": 147,
+		"name": "Safar",
+		"description": "College is that time of life when people make the best memories when they think they're having fun. To capture these memories and have them stored for you all long your life, we present to you, SAFAR, an online photography event that expands its boundaries beyond conventional photography contests.",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/safar.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"AMS"
+		],
+		"organizers": [{
+				"name": "Siddharth Simharaju",
+				"phoneNumber": 8299061623
+			},
+			{
+				"name": "Saksham Singh",
+				"phoneNumber": 9161896720
+			}
+		]
+	},
+	{
+		"id": 148,
+		"name": "Footloose: Finale",
+		"description": "Groovy beats and Dancing. The main stage dance event at Effervescence promises the outpour of the hearts desires with the beats of music.",
+		"location": "Main Stage set inside the campus.",
+		"timestamp": 1507930200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/footloose.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"dance"
+		],
+		"organizers": [{
+				"name": "Shashank Sharma",
+				"phoneNumber": 9473508054
+			},
+			{
+				"name": "Sakshi Singh",
+				"phoneNumber": 8175856920
+			},
+			{
+				"name": "Amit KS",
+				"phoneNumber": 7607033455
+			}
+		]
+	},
+	{
+		"id": 149,
+		"name": "Innovation",
+		"description": "All emotions come at play with a plethora of feelings at the main stage event for Dramatics. A chance not only to showcase one&#39;s talent but also to take home a handsome cash prize.",
+		"location": "Main Stage",
+		"timestamp": 1507926600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/innovation.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"dramatics"
+		],
+		"organizers": [{
+				"name": "Shubh Singh",
+				"phoneNumber": 7317292025
+			},
+			{
+				"name": "Navneet Kumar Patel",
+				"phoneNumber": 8840042226
+			},
+			{
+				"name": "Jayesh Patil",
+				"phoneNumber": 8319232214
+			}
+		]
+	},
+	{
+		"id": 150,
+		"name": "Incendiary",
+		"description": "College Bands battling for recognition and the thrill to perform in front of a live audience. Great competition, Greater effort.",
+		"location": "Main Stage",
+		"timestamp": 1507917600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/incendiary.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"music"
+		],
+		"organizers": []
+	},
+	{
+		"id": 151,
+		"name": "EDM Night",
+		"description": "The rage of today-128 BPM big room rage stuff from the likes of Tieso, Hardwell, Martin Garrix and so on. Performed under SunBurn by renowned artist such as AceAxe, SickLead and more in the past, guess what lies ahead!",
+		"location": "Main Stage",
+		"timestamp": 1507933800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/edm.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	},
+	{
+		"id": 152,
+		"name": "Humour Night",
+		"description": "Make your days less gloomy and your life a little happier. Come join us this autumn where we introduce the Humour Night.",
+		"location": "Main Audi",
+		"timestamp": 1508004000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/humournight.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	},
+	{
+		"id": 153,
+		"name": "Bollywood Night",
+		"description": "Bollywood is a religion and the devotees are plenty. Get ready for whats in store this year as the legacy from Daler Mehandi, Sona Mahapatra, Neha Kakkar to Benny Dayal follows.",
+		"location": "Main Stage",
+		"timestamp": 1508104800,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	},
+	{
+		"id": 154,
+		"name": "Rock Night",
+		"description": "Young, energetic, full of surprises and utter madness on the stage, Lagori creates a sound that is rich, young, hip, honest and completely infectious! Get ready to rise to your feet, throw your hands up in the air and dance all night at Effervescence'17!",
+		"location": "Main Stage",
+		"timestamp": 1508022000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/lagori.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	},
+	{
+		"id": 155,
+		"name": "A'La Mode",
+		"description": "High on the Fashion quotient and too Glam to give a Damn, the Fashionistas eccentricate the stage in all colours and outfits in the Fashion Show at Effervescence'17.",
+		"location": "Main Stage",
+		"timestamp": 1508009400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/alamode.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	},
+
+	{
+		"id": 156,
+		"name": "Celebrity Night",
+		"description": "Mark your calendars as the limelight of the Bollywood Music Industry is all set to ablaze the stage of IIIT Allahabad on 15th October. With Chartbusters such as Rock On! and Zindagi Na Milegi Dobara under his name, it’s going to be a night extraordinaire.",
+		"location": "Main Stage",
+		"timestamp": 1508095800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/celebnight.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"pro shows"
+		],
+		"organizers": []
+	}
+]
