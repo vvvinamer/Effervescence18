@@ -1,114 +1,142 @@
 [
   {
+    "id": 2000,
+    "name": "Pravin Rathore",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/pravin.jpg",
+    "position": "Festival Convener",
+    "contact": "7229835334"
+  },
+  {
     "id": 2001,
-    "name": "Mudit Rathore",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/mudit.jpg",
-    "position": "Overall Coordinator",
-    "contact": "9452385937"
+    "name": "Rao Yaver",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/yaver.jpg",
+    "position": "Pronite Coordinator",
+    "contact": "7456959569"
   },
   {
     "id": 2002,
-    "name": "Kunal Mittal",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/kunal.jpg",
-    "position": "Head, Events and Management",
-    "contact":"7706926698"
+    "name": "Akash Dixit",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/akash.jpg",
+    "position": "Pronite Coordinator",
+    "contact": "9756538423"
   },
   {
     "id": 2003,
-    "name": "Vaibhav Agarwal",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/vaibhav.jpg",
+    "name": "Aashutosh Mundra",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/aashutosh.jpg",
     "position": "Head, Finance",
-    "contact":"7839932719"
+    "contact": "8764080960"
   },
   {
     "id": 2004,
-    "name": "Anurag Bharadwaj",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/anurag.jpg",
-    "position": "Head, Sponsorship and Marketing",
-    "contact":"7840857048"
+    "name": "Mradul Kumar",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/mradul.jpg",
+    "position": "Head, Events & Management",
+    "contact": "7607020702"
   },
   {
     "id": 2005,
-    "name": "Jayesh Chaudhary",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/jayesh.jpg",
-    "position": "Head, Pronites",
-    "contact":"8320846440"
+    "name": "Manavdeep Singh",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/manavdeep.jpg",
+    "position": "Head, Events and Management",
+    "contact": "7706904885"
   },
   {
     "id": 2006,
-    "name": "Ridhima Agarwal",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/ridhima.jpg",
-    "position": "Head, Public Relations and Media Management",
-    "contact":"8853468889"
+    "name": "Nitin Vijay",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/nitin.jpg",
+    "position": "Head, Corporate Relations",
+    "contact": "9793016386"
   },
   {
     "id": 2007,
-    "name": "Lovish Kumar Vatwani",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/lovish.jpg",
-    "position": "Head, Public Relations and Media Management",
-    "contact":"9897800543"
+    "name": "Nairit Banerjee",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/nairit.jpg",
+    "position": "Head, Public Relations",
+    "contact": "7607020660"
   },
   {
     "id": 2008,
-    "name": "Tushar Murarka",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/tushar.jpg",
-    "position": "Head, Hospitality and Travel",
-    "contact":"9628352147"
+    "name": "Shubham Upadhyay",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/subham.jpg",
+    "position": "Head, Public Relations",
+    "contact": "0000000000"
   },
   {
     "id": 2009,
-    "name": "Neha Kandpal",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/neha.jpg",
-    "position": "Head, Hospitality and Travel",
-    "contact":"7318253230"
+    "name": "Maanas Vohra",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/maanas.jpg",
+    "position": "Head, Media Management",
+    "contact": "7838649280"
   },
   {
     "id": 2010,
-    "name": "Nitesh Gupta",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/nitesh.jpg",
+    "name": "Vipul Singhal",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/vipul.jpg",
     "position": "Head, Branding",
-    "contact":"8601843952"
+    "contact": "9755837180"
   },
   {
     "id": 2011,
-    "name": "Abhinav Khare",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/abhinav.jpg",
-    "position": "Head, Web Operations",
-    "contact":"8319473031"
+    "name": "Varun Sonagra",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/varun.jpg",
+    "position": "Head, Hospitality and Travel",
+    "contact": "8856911573"
   },
   {
     "id": 2012,
-    "name": "Pranjal Paliwal",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/pranjal.jpg",
-    "position": "Head, App Operations",
-    "contact":"7988346558"
+    "name": "Divija Palleti",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/divija.jpg",
+    "position": "Head, Hospitality and Travel",
+    "contact": "0000000000"
   },
   {
     "id": 2013,
-    "name": "Rohan Chaudhary",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/rohan.jpg",
+    "name": "Saksham Singh",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/saksham.jpg",
     "position": "Head, Creatives",
-    "contact":"7800161372"
+    "contact": "0000000000"
   },
   {
     "id": 2014,
-    "name": "Rishabh Rai",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/rishab.jpg",
+    "name": "Siddharth Simharaju",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/siddharth.jpg",
     "position": "Head, Creatives",
-    "contact":"8601843952"
+    "contact": "7706888651"
   },
   {
     "id": 2015,
-    "name": "Nitish Verma",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/nitish.jpg",
+    "name": "Piyush Gurnule",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/piyush.jpg",
     "position": "Head, Filming",
-    "contact":"8765923005"
+    "contact": "0000000000"
   },
   {
     "id": 2016,
-    "name": "Umang Narwal",
+    "name": "Sashank Mishra",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/sashank.jpg",
+    "position": "Head, App Operations",
+    "contact": "0000000000"
+  },
+  {
+    "id": 2017,
+    "name": "Anupam Dagar",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/anupam.jpg",
+    "position": "Head, Web Operations",
+    "contact": "0000000000"
+  },
+  {
+    "id": 2018,
+    "name": "Pradeep Gangwar",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/pradeep.jpg",
+    "position": "Head, Web Operations",
+    "contact": "0000000000"
+  },
+  {
+    "id": 2019,
+    "name": "Rohit Kumar",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/team/umang.jpg",
     "position": "Head, Security",
-    "contact":"8398008080"
+    "contact": "8174015678"
   }
 ]
