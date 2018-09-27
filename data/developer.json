@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3001,
+    "name": "Sashank Mishra",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/developers/sashank.jpg",
+    "position": "Head, App Operations",
+    "gitHubLink":"https://github.com/sashank27"
+  },
+  {
+    "id": 3002,
+    "name": "Rahul Jha",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/developers/rahul.jpg",
+    "position": "Executive, App Operations",
+    "gitHubLink":"https://github.com/code-RJ"
+  },
+  {
+    "id": 3003,
+    "name": "Akshit Bansal",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/developers/akshit.jpg",
+    "position": "Head, App Operations",
+    "gitHubLink":"https://github.com/noble-gas"
+  }
+]
