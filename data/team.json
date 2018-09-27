@@ -132,8 +132,15 @@
     "position": "Head, Web Operations",
     "contact": "9458120350"
   },
-  {
+{
     "id": 2019,
+    "name": "Aswin VB",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/team/aswin.jpg",
+    "position": "Head, Web Operations",
+    "contact": "8281637530"
+  },
+  {
+    "id": 2020,
     "name": "Rohit Kumar",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/team/rohit.jpg",
     "position": "Head, Security",
