@@ -691,13 +691,39 @@
 		],
 		"organizers": []
 	},
+ 	{
+		"id": 132,
+		"name": "Antakshari",
+		"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn't you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
+		"location": "CC3",
+		"timestamp": 1507899600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/antakshari.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/492660841113544/",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Niharika Shrivastava",
+				"phoneNumber": 9869338372
+			},
+			{
+				"name": "Gauri Kesarwani",
+				"phoneNumber": 8303220294
+			},
+			{
+				"name": "Anagh Rao",
+				"phoneNumber": 7396500000
+			}
+		]
+	},
 	{
 		"id": 133,
 		"name": "Unplugged",
 		"description": "Introducing Unplugged,the official acoustic event organised during Effervescence. We invite you to this musical event where you can perform acoustic renditions of your favourite songs and win attractive prizes.",
 		"location": "Main Audi",
 		"timestamp": 1538893800,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/unplugged.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/unplugged.jpg",
 		"facebookEventLink": "https://www.facebook.com/events/386737538411192/",
 		"additionalInfo": [],
 		"categories": [
@@ -723,7 +749,7 @@
 		"description": "Psychedellia is the mainstage non-competitive event for Musical Bands, with no judges. Being a mainstage event of Effervescence, it presents you with an opportunity that will always be a win win situation.",
 		"location": "Main Stage",
 		"timestamp": 1538737200,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/psychedellia.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/psychedellia.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -749,7 +775,7 @@
 		"description": "Melodieux is a competitive music event organised for just singers. May the one with the best voice win!",
 		"location": "Main Audi",
 		"timestamp": 1538890200,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/melodeiux.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/melodeiux.jpg",
 		"facebookEventLink": "https://www.facebook.com/profile.php?id=300500913761591&ref=br_rs",
 		"additionalInfo": [],
 		"categories": [
